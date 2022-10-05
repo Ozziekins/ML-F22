@@ -11,7 +11,7 @@ Open a directory on your local system and run the following commands
 4. run and see the results
 
 
-> **_NOTE:_** The cells related to pandas-profiling are commented and hence the notebook will run without any disturbances. But if you want to view the report, you will first need to uncomment the first four cells after _Data Visualization_ section in both Regression and CLassificiation
+> **_NOTE:_** The cells related to pandas-profiling are commented and hence the notebook will run without any disturbances. I have also provided the report as html files for both datsets: `bitrate_profile.html` and `stream_profile.html`. But if you want to view the report, you will first need to uncomment the first four cells after _Data Visualization_ section in both Regression and CLassificiation
 
 ### License  
 MIT: [LICENSE](https://github.com/Ozziekins/ML-F22/blob/main/LICENSE)
