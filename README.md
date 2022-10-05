@@ -6,7 +6,7 @@
 ### How to run
 Open a directory on your local system and run the following commands  
 1. ```git clone git@github.com:Ozziekins/ML-F22.git```  
-2. ```cd ML-F22``` and make sure you have the `ML_Assingment1.ipynb downloaded   
+2. ```cd ML-F22``` and make sure you have the `ML_Assingment1.ipynb` downloaded   
 3. open google colab or anaconda or jupyter and upload the notebook there
 4. run and see the results
 
